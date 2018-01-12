@@ -1,0 +1,34 @@
+.fullwidth{
+    width: 100%;
+}
+.no_pad{
+    padding-left: 0;
+    padding-right: 0;
+}
+.no_mar{
+    margin-left: 0;
+    margin-right: 0;
+}
+body{font-family: 'Open Sans', sans-serif;}
+.intro{min-height: 800px;background-image: url(Intro_background.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;}
+.btn-default{background-color: transparent;border: none;}
+.social_menu{padding-top: 10px;}
+.header{padding-top: 20px;}
+.social_menu ul li a{color: white;padding-left: 10px;}
+.logo{padding-top: 70%;}
+.overview_writeup{padding-top: 70%;}
+.loco_writeup{padding-top: 10%;}
+.location_box{height: 800px;padding-top: 7%;}
+.conference{height: 800px;background-image: url(confer.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;color: white;}
+.conference_para{font-size: 35pt;color: white;}
+.book_button{background-color: transparent;padding: 20px 40px;border: .5px solid white;}
+.e, .w{padding-top: 7%;}
+.grape{transform: translateY(-50%);}
+.grape_writes{
+    padding-top: 5%;
+}
+.test{height: 700px;border-top: 1px solid violet;}
+.test{padding-top: 15%;}
+.test_header{padding-top: 15%;letter-spacing: 1;font-weight: lighter;font-size: 40pt;}
+.testi_box{height: 250px;border: 2px solid black;box-sizing: border-box;}
+.testi_text{text-align: center;padding: 10%;}

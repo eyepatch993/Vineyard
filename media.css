@@ -1,0 +1,20 @@
+@media (max-width: 767px) { 
+
+.intro{min-height: 400px;background-image: url(Intro_background.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;}
+    .overview_writeup{padding-top: 5%;}
+    .location_box{height: 400px;padding-top: 7%;}
+    .conference{height: 450px;background-image: url(confer.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;color: white;}
+.conference_para{font-size: 20pt;color: white;}
+    .grape{height: 200px;}
+.grape_writes{
+    padding-top: 5%;
+}
+    .test_header{padding-top: 5%;letter-spacing: 1;font-weight: lighter;font-size: 20pt;}
+.testi_box{height: 350px;border: 2px solid black;box-sizing: border-box;}
+.testi_text{text-align: left;}
+    .foot{text-align: center;}
+}
+@media (min-width: 768px) and (max-width: 991px) { ... }
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+@media (min-width: 1200px) { .location_logo{transform: translateY(15%);position: relative;z-index: 999999999;}
+.location_image{position: absolute;} }
